@@ -27,3 +27,14 @@ This repository is for practicing basic Git and GitHub workflows.
 I am practicing how to temporarily save uncommitted changes
 and restore them later using Git stash.
 >>>>>>> Stashed changes
+
+
+## Project Update Summary
+
+### Changes Made
+- Added commonly used Git commands.
+- Included explanations of basic Git workflows.
+- Documented branching, committing, and pushing changes.
+
+### Purpose
+To provide a quick reference for essential Git and GitHub commands.
